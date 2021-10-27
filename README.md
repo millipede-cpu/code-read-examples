@@ -1,1 +1,1 @@
-# code-read-exmaples
+# code-read-examples
